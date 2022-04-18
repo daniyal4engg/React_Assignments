@@ -18,7 +18,14 @@ function TodoInput() {
       {todoArr.map((e) => {
         // return <TodoList prop={e} />;
         // console.log(e);
-        return <div className="out">{e}</div>;
+        return (
+          <div className="out">
+            {e}{" "}
+            <button className="blue" onClick={() => {}}>
+              🔵
+            </button>
+          </div>
+        );
       })}
     </div>
   );

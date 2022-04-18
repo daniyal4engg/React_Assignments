@@ -14,4 +14,9 @@
   background-color: #262626;
   color: white;
   border: 1px solid white;
+  padding: 2px;
+}
+.blue {
+  border-radius: 10%;
+  font-size: medium;
 }
