@@ -1,0 +1,244 @@
+{
+  "hotel": [
+    {
+      "id": 1,
+      "payment_method": "Concettina",
+      "total_votes": 1,
+      "reviews": 1,
+      "cost_for_one": 1,
+      "categories ": "Renault"
+    },
+    {
+      "id": 2,
+      "payment_method": "Connie",
+      "total_votes": 2,
+      "reviews": 2,
+      "cost_for_one": 2,
+      "categories ": "Sascha"
+    },
+    {
+      "id": 3,
+      "payment_method": "Elfreda",
+      "total_votes": 3,
+      "reviews": 3,
+      "cost_for_one": 3,
+      "categories ": "Coreen"
+    },
+    {
+      "id": 4,
+      "payment_method": "Grier",
+      "total_votes": 4,
+      "reviews": 4,
+      "cost_for_one": 4,
+      "categories ": "Marrissa"
+    },
+    {
+      "id": 5,
+      "payment_method": "Laurence",
+      "total_votes": 5,
+      "reviews": 5,
+      "cost_for_one": 5,
+      "categories ": "Tarra"
+    },
+    {
+      "id": 6,
+      "payment_method": "Leah",
+      "total_votes": 6,
+      "reviews": 6,
+      "cost_for_one": 6,
+      "categories ": "Georgine"
+    },
+    {
+      "id": 7,
+      "payment_method": "Barth",
+      "total_votes": 7,
+      "reviews": 7,
+      "cost_for_one": 7,
+      "categories ": "Cosetta"
+    },
+    {
+      "id": 8,
+      "payment_method": "Stesha",
+      "total_votes": 8,
+      "reviews": 8,
+      "cost_for_one": 8,
+      "categories ": "Tracy"
+    },
+    {
+      "id": 9,
+      "payment_method": "Karine",
+      "total_votes": 9,
+      "reviews": 9,
+      "cost_for_one": 9,
+      "categories ": "Richardo"
+    },
+    {
+      "id": 10,
+      "payment_method": "Hank",
+      "total_votes": 10,
+      "reviews": 10,
+      "cost_for_one": 10,
+      "categories ": "Maitilde"
+    },
+    {
+      "id": 11,
+      "payment_method": "Mervin",
+      "total_votes": 11,
+      "reviews": 11,
+      "cost_for_one": 11,
+      "categories ": "Chariot"
+    },
+    {
+      "id": 12,
+      "payment_method": "Ruthe",
+      "total_votes": 12,
+      "reviews": 12,
+      "cost_for_one": 12,
+      "categories ": "Gilbert"
+    },
+    {
+      "id": 13,
+      "payment_method": "Binny",
+      "total_votes": 13,
+      "reviews": 13,
+      "cost_for_one": 13,
+      "categories ": "Arvie"
+    },
+    {
+      "id": 14,
+      "payment_method": "Darnall",
+      "total_votes": 14,
+      "reviews": 14,
+      "cost_for_one": 14,
+      "categories ": "Tally"
+    },
+    {
+      "id": 15,
+      "payment_method": "Robinet",
+      "total_votes": 15,
+      "reviews": 15,
+      "cost_for_one": 15,
+      "categories ": "Thornton"
+    },
+    {
+      "id": 16,
+      "payment_method": "Jessica",
+      "total_votes": 16,
+      "reviews": 16,
+      "cost_for_one": 16,
+      "categories ": "Skipper"
+    },
+    {
+      "id": 17,
+      "payment_method": "Darice",
+      "total_votes": 17,
+      "reviews": 17,
+      "cost_for_one": 17,
+      "categories ": "Brand"
+    },
+    {
+      "id": 18,
+      "payment_method": "Marya",
+      "total_votes": 18,
+      "reviews": 18,
+      "cost_for_one": 18,
+      "categories ": "Ruperta"
+    },
+    {
+      "id": 19,
+      "payment_method": "Daryl",
+      "total_votes": 19,
+      "reviews": 19,
+      "cost_for_one": 19,
+      "categories ": "Roley"
+    },
+    {
+      "id": 20,
+      "payment_method": "Carol",
+      "total_votes": 20,
+      "reviews": 20,
+      "cost_for_one": 20,
+      "categories ": "Manya"
+    },
+    {
+      "id": 21,
+      "payment_method": "Hyman",
+      "total_votes": 21,
+      "reviews": 21,
+      "cost_for_one": 21,
+      "categories ": "Chuck"
+    },
+    {
+      "id": 22,
+      "payment_method": "Marline",
+      "total_votes": 22,
+      "reviews": 22,
+      "cost_for_one": 22,
+      "categories ": "Smitty"
+    },
+    {
+      "id": 23,
+      "payment_method": "Hervey",
+      "total_votes": 23,
+      "reviews": 23,
+      "cost_for_one": 23,
+      "categories ": "Jamil"
+    },
+    {
+      "id": 24,
+      "payment_method": "Bondie",
+      "total_votes": 24,
+      "reviews": 24,
+      "cost_for_one": 24,
+      "categories ": "Ram"
+    },
+    {
+      "id": 25,
+      "payment_method": "Elly",
+      "total_votes": 25,
+      "reviews": 25,
+      "cost_for_one": 25,
+      "categories ": "Drew"
+    },
+    {
+      "id": 26,
+      "payment_method": "Rik",
+      "total_votes": 26,
+      "reviews": 26,
+      "cost_for_one": 26,
+      "categories ": "Marigold"
+    },
+    {
+      "id": 27,
+      "payment_method": "Adella",
+      "total_votes": 27,
+      "reviews": 27,
+      "cost_for_one": 27,
+      "categories ": "Rodrique"
+    },
+    {
+      "id": 28,
+      "payment_method": "Ana",
+      "total_votes": 28,
+      "reviews": 28,
+      "cost_for_one": 28,
+      "categories ": "Fayth"
+    },
+    {
+      "id": 29,
+      "payment_method": "Alexandrina",
+      "total_votes": 29,
+      "reviews": 29,
+      "cost_for_one": 29,
+      "categories ": "Aldric"
+    },
+    {
+      "id": 30,
+      "payment_method": "De witt",
+      "total_votes": 30,
+      "reviews": 30,
+      "cost_for_one": 30,
+      "categories ": "Jayne"
+    }
+  ]
+}
