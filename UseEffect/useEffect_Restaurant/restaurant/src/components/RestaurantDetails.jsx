@@ -1,5 +1,5 @@
 function RestaurantDetails() {
-  return <div>hello</div>;
+  return <div>hello world</div>;
 }
 
 export { RestaurantDetails };
