@@ -1,13 +1,12 @@
 import { useState } from "react";
 import logo from "./logo.svg";
 import "./App.css";
-import { RestaurantDetails } from "./components/RestaurantDetails";
+import { Employee } from "./components/Employee";
 
 function App() {
   return (
     <div className="App">
-      <div>hey</div>
-      <RestaurantDetails />
+      <Employee />
     </div>
   );
 }

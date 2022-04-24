@@ -1,0 +1,104 @@
+{
+  "Employee": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    },
+    {
+      "username": "hey",
+      "age": "33",
+      "id": 2
+    },
+    {
+      "username": "Daniyal",
+      "age": "24",
+      "Address": "11",
+      "Department": "",
+      "Salary": "22",
+      "marital": "",
+      "Department ": "3",
+      "marital ": "2",
+      "id": 3
+    },
+    {
+      "name": "daniyal",
+      "age": "22",
+      "Address": "32",
+      "Department": "",
+      "Salary": "1233",
+      "marital": "",
+      "Department ": "4",
+      "marital ": "4",
+      "id": 4
+    },
+    {
+      "name": "s",
+      "age": "12",
+      "Address": "as",
+      "Department": "Sells",
+      "Salary": "2",
+      "marital": "",
+      "marital ": "2",
+      "id": 5
+    },
+    {
+      "name": "s",
+      "age": "12",
+      "Address": "as",
+      "Department": "",
+      "Salary": "2",
+      "marital": "",
+      "marital ": "2",
+      "id": 6
+    },
+    {
+      "name": "sas",
+      "age": "12",
+      "Address": "as",
+      "Department": "Marketing",
+      "Salary": "2",
+      "marital": "",
+      "marital ": "2",
+      "id": 7
+    },
+    {
+      "name": "aaaaa",
+      "age": "12",
+      "Address": "as",
+      "Department": "Finance",
+      "Salary": "2",
+      "marital": "",
+      "marital ": "2",
+      "id": 8
+    },
+    {
+      "name": "ad",
+      "age": "232",
+      "Address": "asds",
+      "Department": "Finance",
+      "Salary": "122",
+      "marital": "",
+      "id": 9
+    },
+    {
+      "name": "adsd",
+      "age": "12",
+      "Address": "asd",
+      "Department": "Marketing",
+      "Salary": "12",
+      "marital": "",
+      "id": 10
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}
