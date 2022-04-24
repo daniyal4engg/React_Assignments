@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "antd": "^4.20.0",
+    "styled-components": "^5.3.5"
+  }
+}
