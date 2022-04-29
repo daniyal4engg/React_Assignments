@@ -1,0 +1,38 @@
+{
+  "logusers": [
+    {
+      "id": 1,
+      "username": "json-server",
+      "password": "typicode"
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 2
+    },
+    {
+      "username": "",
+      "password": "",
+      "id": 3
+    },
+    {
+      "id": 4
+    },
+    {
+      "username": "asdad",
+      "age": "",
+      "password": "asdsa",
+      "id": 5
+    },
+    {
+      "username": "ass",
+      "password": "asda",
+      "id": 6
+    },
+    {
+      "username": "asdsadsadsads",
+      "password": "sadsadasd",
+      "id": 7
+    }
+  ]
+}
