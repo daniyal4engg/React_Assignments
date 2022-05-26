@@ -20,26 +20,27 @@ function App() {
       <Text>Desktop Layout</Text>
       <Center>
         <Grid
-          w={["400px", "800px"]}
+          w={["600px", "800px"]}
+          color={"white"}
           templateColumns="repeat(4, 1fr)"
-          templateRows="repeat(4, 1fr)"
-          gap={1}
         >
           <GridItem
+            color={"white"}
             rowSpan={[1, 4]}
             colSpan={[4, 1]}
-            h="10"
+            h="40"
             bg="blue"
             p="10px"
             textAlign={"center"}
+            alignItems={"center"}
           >
             Nav
           </GridItem>
           <GridItem
             rowSpan={[1, 4]}
             colSpan={[4, 2]}
-            h="10"
-            bg="orange"
+            h="40"
+            bg={["red", "orange"]}
             p="10px"
             textAlign={"center"}
           >
@@ -48,8 +49,8 @@ function App() {
           <GridItem
             rowSpan={[1, 4]}
             colSpan={[4, 1]}
-            h="10"
-            bg="red"
+            h={["80", "40"]}
+            bg={["orange", "red"]}
             p="10px"
             textAlign={"center"}
           >

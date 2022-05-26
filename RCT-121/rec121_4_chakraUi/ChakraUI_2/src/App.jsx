@@ -21,6 +21,7 @@ function App() {
       <Center>
         <Box>
           <Grid
+            color={"white"}
             mt="50px"
             w={["200px", "500px"]}
             h="200px"
