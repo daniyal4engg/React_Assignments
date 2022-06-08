@@ -15,17 +15,7 @@ function App() {
   useEffect(() => {
     getdetails({ page, ratingOrder, costOrder, filterRating, q });
   }, [page, ratingOrder, costOrder, filterRating, q]);
-  // console.log("q", q);
-  // const paginate = () => {
-  //   if (page < 5) {
-  //     setPage(page + 1);
-  //   }
-  // };
-  // const paginate1 = () => {
-  //   if (page > 1) {
-  //     setPage(page - 1);
-  //   }
-  // };
+
   if (page > 5) {
     setPage(5);
   }
@@ -53,7 +43,7 @@ function App() {
           q: q,
         },
       });
-// data
+      // data
       setData(res.data);
       console.log(res.data);
     } catch (error) {
