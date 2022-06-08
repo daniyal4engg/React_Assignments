@@ -53,7 +53,7 @@ function App() {
           q: q,
         },
       });
-
+// data
       setData(res.data);
       console.log(res.data);
     } catch (error) {
